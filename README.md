@@ -2,5 +2,6 @@
 
 Aplicativo clone WhatsApp com Flutter.
 
-![alt text](https://github.com/elbersongames/flutter_clonewhatsapp/blob/master/w.png)
+
+# ![alt text](https://github.com/elbersongames/flutter_clonewhatsapp/blob/master/w.png)
 
